@@ -1,5 +1,5 @@
 # BandGapPredictor
-Predict the bandgap energy for inorganic materials
+Predict the bandgap energy for inorganic material
 
 This package provides a machine learning model trained based on experimetally measurements to predict the bandgap energy (Eg) for inorganic materials via the command-line.
 
